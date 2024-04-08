@@ -19,13 +19,13 @@ I'm passionate about leveraging the latest technologies to solve complex problem
 
 ### 🌟 Highlights
 
-- 🏆 Contributed to [Open Source Project/Name], improving [Feature/Performance].
-- 🚀 Led the development of [Project Name], achieving [Result/Impact].
-- 💡 Developed a [Tool/Feature] that optimized [Process/Performance] by [Percentage].
+- 🏆 Contributed to 300+ projects, improving user experience.
+- 🚀 Led the development of 30+ projects, achieving 22.5K+.
+- 💡 Developed Zestimate that optimized customer conversion by 40%.
 
 ### 📚 Continuous Learning
 
-I'm always on the lookout for new technologies and methodologies to learn. Currently, I'm diving deeper into [Technology/Methodology], aiming to [Objective].
+I'm always on the lookout for new technologies and methodologies to learn. Currently, I'm diving deeper into Ember.js and Preact, aiming to New JS frameworks.
 
 ### 🤝 Let's Connect
 
