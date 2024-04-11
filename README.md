@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Hello, I'm Jason! 👋
+<!-- # Hello, I'm Jason! 👋 -->
 
 ## Senior W3 Full-Stack Developer
 
