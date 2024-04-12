@@ -30,7 +30,7 @@ I'm always on the lookout for new technologies and methodologies to learn. Curre
 ### 🤝 Let's Connect
 
 - LinkedIn: [Your LinkedIn](Your LinkedIn URL)
-- Email: [J_son](mailto:krisato93@gmail.com)
+- Email: [J_son](mailto:json.l@hotmail.com)
 <!--
 
 ### 📈 GitHub Stats
