@@ -4,7 +4,7 @@
 
 ## Senior W3 Full-Stack Developer
 
-Welcome to my GitHub profile! With over 8 years of experience in full-stack development,
+Welcome to my GitHub profile! With over great experience in full-stack development,
 I've honed my skills in creating scalable, efficient, and innovative web solutions.
 I'm passionate about leveraging the latest technologies to solve complex problems and deliver user-centric applications.
 
